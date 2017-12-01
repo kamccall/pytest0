@@ -1,3 +1,4 @@
 #!/usr/bin/env python
 
-print("hey dude...")
+name = raw_input('enter your name:')
+print("hello " + name + "!")
